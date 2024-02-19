@@ -290,6 +290,7 @@ header .logo img{
         left: 0;
         z-index: 99;
     }
+
     .navigation{
         display: flex;
         flex-direction: column;
@@ -349,6 +350,12 @@ header .logo img{
         transform: translateX(30px);
         opacity: 2;
     }
+    .btnlogin-popup {
+        margin-right: 10px;
+        padding: 0 0 0 20px;
+    }
+  
+
     
 
     .bar{
@@ -357,6 +364,8 @@ header .logo img{
         cursor: pointer;
         transition: .5s;
         opacity: 1;
+        margin-left: 20px;
+
     }
     .bar:hover{
         color: #a9b2b9;

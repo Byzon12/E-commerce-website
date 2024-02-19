@@ -1,0 +1,27 @@
+
+#pagetion{
+   text-align: center;
+}
+#pagetion a{
+    text-decoration: none;
+    padding: 15px 20px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    color: azure;
+    font-weight: 600;
+    transition: 0.5s;
+}
+
+#pagetion a i{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#pagetion a:hover,
+#pagetion a.active{
+   color: crimson;
+
+}
+#pagetion a.active{
+    background-color: aliceblue;
+}
