@@ -671,7 +671,7 @@ footer a{
 
 
  /*this is media section*/
- @media (max-width:799px) {
+ @media only screen and (max-width: 768px) {
     .section-p1 {
         padding: 40px 20px;
     }
