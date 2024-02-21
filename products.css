@@ -96,8 +96,7 @@
     #productsdetails {
         display: flex;
       flex-direction: column;
-      align-items: center;
-      justify-content: center;
+      
     }
     #productsdetails .singgl_image {
         width: 100%;
